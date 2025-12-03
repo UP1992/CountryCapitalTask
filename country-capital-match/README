@@ -1,0 +1,7 @@
+Country–Capital Matching Game (React + Vite)
+
+A simple and interactive matching game built using React, Vite, and clean component-based architecture.
+The user selects a country and then tries to match it with the correct capital.
+Correct pairs highlight in green and disappear; wrong pairs highlight in red and show a temporary message.
+
+Added comments in code for better explanation
