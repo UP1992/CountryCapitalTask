@@ -1,0 +1,47 @@
+body {
+  background: #222;
+  
+}
+
+.container {
+ 
+  /* gap: 20px;
+  height: 100vh; */
+}
+
+.parent{
+    display: flex;
+  justify-content: center;
+  align-items: center;  
+  height: 100vh;
+  gap: 20px;
+}
+
+.pair-btn {
+  width: 120px;
+  height: 60px;
+  background: #0b6484;
+  color: white;
+  border-radius: 6px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: border 0.3s ease;
+  margin-right: 20px;
+}
+.pair-btn:focus {
+  outline: none;
+}
+
+.pair-btn {
+  outline: none;
+}
+
+.congrats-message{
+  font-size: 24px;
+  color: gold;
+}
+
+.error-box{
+  color: red;
+  text-align: center;
+}
