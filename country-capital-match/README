@@ -5,3 +5,20 @@ The user selects a country and then tries to match it with the correct capital.
 Correct pairs highlight in green and disappear; wrong pairs highlight in red and show a temporary message.
 
 Added comments in code for better explanation
+
+🔧 Installation
+
+Clone the repository:
+
+git clone https://github.com/UP1992/CountryCapitalTask.git
+cd country-capital-match
+
+
+Install dependencies:
+
+npm install
+
+
+Start development server:
+
+npm run dev
